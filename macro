@@ -1,0 +1,4 @@
+for i in {1..100}
+do
+mv mock_$i'_essential_info_z_0.500000_th_10_file.txt' mock_$i'_hod4_par2.txt'
+done
